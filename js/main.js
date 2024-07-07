@@ -5,20 +5,16 @@
 
 	var projectsArray = [
 		{
-			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"id": "projectOnlineShopping",
+			"url": "https://github.com/ashenbgy/Ecommerce-Website-Spring-Boot"
 		},
 		{
-			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"id": "projectAndroidApp",
+			"url": "https://github.com/ashenbgy/Steganography-Android-App"
 		},
 		{
-			"id": "projectServ",
-			"url": "https://www.getserv.io"
-		},
-		{
-			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"id": "projectSpringAwsHeroku",
+			"url": "https://github.com/ashenbgy/spring-boot-aws-heroku"
 		}
 	]
 
