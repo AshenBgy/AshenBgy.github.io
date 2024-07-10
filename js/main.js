@@ -6,7 +6,7 @@
 	var projectsArray = [
 		{
 			"id": "projectOnlineShopping",
-			"url": "https://github.com/ashenbgy/Ecommerce-Website-Spring-Boot"
+			"url": "https://github.com/ashenbgy/Online-Shopping-System"
 		},
 		{
 			"id": "projectAndroidApp",
