@@ -15,6 +15,18 @@
 		{
 			"id": "projectSpringAwsHeroku",
 			"url": "https://github.com/ashenbgy/spring-boot-aws-heroku"
+		},
+		{
+			"id": "projectKafka",
+			"url": "https://github.com/ashenbgy/springboot-kafka-real-world-project"
+		},
+		{
+			"id": "projectEchanneling",
+			"url": "https://github.com/ashenbgy/Echanneling-System"
+		},
+		{
+			"id": "projectEmployeeMgt",
+			"url": "https://github.com/ashenbgy/employee-management-system"
 		}
 	]
 
